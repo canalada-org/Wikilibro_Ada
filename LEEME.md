@@ -20,7 +20,7 @@ dependencias de este compilador. En el único caso en que se requiere
 un compilador concreto es en el ejemplo de GLADE. Para compilar este
 ejemplo sigue las instrucciones de:
 
-http://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Ada_/_GLADE
+http://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Ada/GLADE
 
 Cualquier comentario acerca de estos ejemplos será bienvenido en la
 siguiente página:
